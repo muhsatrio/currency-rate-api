@@ -34,7 +34,7 @@ http://localhost:3000/api/rate
 
 ```
 ### 2. GET - List of Trend Exchange
-
+```
 http://localhost:3000/api/rate_trend
 ```
 - Example Input:

@@ -32,9 +32,9 @@ http://localhost:3000/api/rate
   ]
 }
 
+```
 ### 2. GET - List of Trend Exchange
 
-```
 http://localhost:3000/api/rate_trend
 ```
 - Example Input:
@@ -104,7 +104,7 @@ http://localhost:3000/api/track
 ```
 
 
-### 4. DELETE - Delete Track of Exchange Rate
+### 5. DELETE - Delete Track of Exchange Rate
 
 ```
 http://localhost:3000/api/track

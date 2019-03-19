@@ -59,9 +59,10 @@ http://localhost:3000/api/rate_trend
   ]
 }
 
+```
+
 ### 3. POST - Input Rate of Exchange
 
-```
 http://localhost:3000/api/rate
 ```
 - Example Input:
@@ -80,7 +81,6 @@ http://localhost:3000/api/rate
   "values": "Data inputed successfully! :)"
   ]
 }
-```
 
 ### 4. POST - Input Track of Exchange Rate
 
@@ -102,7 +102,6 @@ http://localhost:3000/api/track
   ]
 }
 ```
-
 
 ### 5. DELETE - Delete Track of Exchange Rate
 
